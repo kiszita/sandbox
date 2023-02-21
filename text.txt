@@ -4,4 +4,8 @@ asd
 =======
 Helloo Zita
 >>>>>>> zitatextoffline
+<<<<<<< HEAD
 asdasd
+=======
+hellokabelloka
+>>>>>>> 37a073feb18922c5f24b08286072c6e7a1820762
