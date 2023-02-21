@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Helloo Danik
 asd
+=======
+Helloo Zita
+>>>>>>> zitatextoffline
